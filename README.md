@@ -1,4 +1,4 @@
-![Image](tree/main/src/assets/Screenshot.png)
+![Image](/src/assets/Screenshot.png)
 
 This is a sound box for live stream animation.
 
