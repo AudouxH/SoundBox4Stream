@@ -1,0 +1,41 @@
+.Sound {
+    width: 250px;
+    height: 80px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #FFF;
+}
+
+.button-container {
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50px;
+    background-color: #FFF;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.text {
+    width: 250px;
+    text-align: start;
+    color: #9246fe;
+    font-weight: 600;
+    font-size: 24px;
+}
